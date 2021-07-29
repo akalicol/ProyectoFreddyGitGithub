@@ -1,9 +1,4 @@
-This is the story about Cesar Mendoza
+Ahora vamos a escribir en español
 
-Cesar Mendoza is 29 years old and he was born in Colombia
-
-
-Today we will talk about his life and his projects
-
-
-On the camera I look tall but I am not that tall
+estamos aprendiendo lo que hacemos con freddy correspondiente
+a git github

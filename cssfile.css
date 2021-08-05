@@ -1,20 +1,31 @@
 body
 {
-    color: greenyellow;
+    color:orange;
     text-align: center;
     font-family: "Arial";
+    font-size: 10px;
     margin: 0;
     padding: 0;
 }
-#container
+#cabecera
 {
+<<<<<<< HEAD
     width: 70%;
+=======
+    background: blue;
+    box-shadow: brown;
+    width: 60%;
+>>>>>>> cabecera
     padding: 1em;
-    text-align: right;
+    text-align: left;
     border: 1px solid red;
     margin: 0 auto;
 }
 #container h1
 {
+<<<<<<< HEAD
     font-size: 70px;
+=======
+    font-size: 20px;
+>>>>>>> cabecera
 }

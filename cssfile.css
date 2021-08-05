@@ -8,7 +8,7 @@ body
 }
 #container
 {
-    width: 200%;
+    width: 70%;
     padding: 1em;
     text-align: right;
     border: 1px solid red;
@@ -16,5 +16,5 @@ body
 }
 #container h1
 {
-    font-size: 220px;
+    font-size: 70px;
 }
